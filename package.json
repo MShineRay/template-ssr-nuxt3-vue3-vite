@@ -1,31 +1,12 @@
 {
-  "name": "template-vue3-pc-manage-system",
+  "name": "template-ssr-nuxt3-vue3-vite",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview"
-  },
-  "dependencies": {
-    "axios": "^0.21.1",
-    "element-plus": "1.0.2-beta.52",
-    "vue": "^3.1.2",
-    "vue-cropperjs": "^5.0.0",
-    "vue-i18n": "^9.0.0",
-    "vue-router": "^4.0.10",
-    "vue-schart": "^2.0.0",
-    "vuex": "^4.0.2",
-    "wangeditor": "^4.7.4"
+    "build": "nuxi build",
+    "dev": "nuxi dev",
+    "start": "nuxi preview"
   },
   "devDependencies": {
-    "vite": "2.3.7",
-    "@vitejs/plugin-vue": "^1.2.3",
-    "@vue/compiler-sfc": "^3.1.2"
-  },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions",
-    "not dead"
-  ]
+    "nuxt": "npm:nuxt3@latest"
+  }
 }

@@ -14,10 +14,6 @@
 
 ## Function
 
--   [x] Dashboard
--   [x] Tabs
--   [x] Permission
--   [x] 404 / 403
 
 ## Installation steps
 
@@ -35,8 +31,6 @@ npm run build
 
 ### reference
 
-[vue-manage-system](https://github.com/lin-xin/vue-manage-system.git)
 
 ## License
-
-[MIT](https://github.com/lin-xin/vue-manage-system/blob/master/LICENSE)
+MIT
