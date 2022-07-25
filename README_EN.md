@@ -1,4 +1,4 @@
-# template-vue3-pc-manage-system
+# template-ssr-nuxt3-vue3-vite
 
 ## Tools
 
